@@ -7,7 +7,7 @@ function Default(html) {
             <title>Default</title>
         </head>
         <body>
-            <h1>HTML Rendered!</h1>
+            <h1>BreadCRUD</h1>
             <div className="container">
                 {html.children}
             </div>
